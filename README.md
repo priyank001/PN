@@ -1,6 +1,11 @@
 # [Hi There ](https://priyank001.github.io/pn/)
 
-This is a one page portfolio for [me](https://priyank001.github.io/pn/). it has created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, window modals for each portfolio item, and a working PHP contact form.
+>This is a One-Page portfolio for [me](https://priyank001.github.io/pn/), having my interests.
+* Academic, Professional 
+* Sports 
+* Music 
+* Amateur Astronomics 
+* CV
 
 ## Preview
 
@@ -8,13 +13,6 @@ This is a one page portfolio for [me](https://priyank001.github.io/pn/). it has 
 
 **[View Live Preview](https://github.com/priyank001/pn)**
 
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-freelancer/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-freelancer.svg)](https://www.npmjs.com/package/startbootstrap-freelancer)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-freelancer.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-freelancer)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer?type=dev)
 
 ## Download and Installation
 
