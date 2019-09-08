@@ -4,9 +4,9 @@ This is a one page portfolio for [me](https://priyank001.github.io/pn/). it has 
 
 ## Preview
 
-[![Portoflio Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
+[![Portoflio Preview](https://github.com/priyank001/pn/blob/master/img/portfolio/portfolio.PNG)](https://github.com/priyank001/pn/blob/master/img/portfolio/portfolio.PNG)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
+**[View Live Preview](https://github.com/priyank001/pn)**
 
 ## Status
 
